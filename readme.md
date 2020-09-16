@@ -1,4 +1,4 @@
-![cover](./assets/img/water-glass.svg)
+![cover](./img/water-glass.svg)
 
 # Hydrapp
 
